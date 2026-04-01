@@ -1,23 +1,32 @@
-<div align="center">
-  <h1>Hello, I'm Adam! 👋</h1>
+<h1>Hello, I'm Adam 👋</h1>
 
-  Web developer & UI designer from the Czech Republic.
-  I build clean, modern websites and simple tools.
+<p>
+Web developer & UI designer from the Czech Republic.<br>
+I build clean, modern websites and simple tools.
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abubikdev)
+<p>
+  <img src="https://streak-stats.demolab.com?user=abubikdev" alt="GitHub Streak" />
+</p>
 
-## Currently
-Building Creator & Self - Studying at ORBIS Střední škola s.r.o.
+---
 
-## Tech
+### 🚀 Currently
+- Building as a creator
+- Studying at ORBIS Střední škola s.r.o.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat\&logo=swift\&logoColor=white)
+---
 
-## Contact
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white" />
+</p>
 
-Check out my [portfolio](https://abubik.cz) or [email me](mailto:kontakt@abubik.cz)
+---
 
-</div>
+### 📬 Contact
+- Portfolio: [abubik.cz](https://abubik.cz)
+- Email: kontakt@abubik.cz
