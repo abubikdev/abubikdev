@@ -8,7 +8,7 @@ I build clean, modern websites and simple tools.
 ---
 
 ### 🚀 Currently
-- Building as a creator
+- Building multiple products like Pulse AI, and Creator. You can find more info about these products on my portfolio.
 - Studying at ORBIS Střední škola s.r.o.
 
 ---
