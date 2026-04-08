@@ -1,4 +1,4 @@
-<h1>Hello, I'm Adam 👋</h1>
+<h1>Hey, I'm Adam 👋</h1>
 
 <p>
 Web developer & UI designer from the Czech Republic.<br>
