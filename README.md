@@ -8,7 +8,7 @@ I build clean, modern websites and simple tools.
 ---
 
 ### 🚀 Currently
-- Building multiple products like Pulse AI, and Creator. You can find more info about these products on my portfolio.
+- Building Billz. Find out more soon.
 - Studying at ORBIS Střední škola s.r.o.
 
 ---
